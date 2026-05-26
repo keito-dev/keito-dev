@@ -6,10 +6,11 @@
 
 <br/>
 
-![Username](https://img.shields.io/badge/keito--dev-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)
-![Age](https://img.shields.io/badge/23_years-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)
-![FiveM](https://img.shields.io/badge/FiveM-5_Years-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)
+![Username](https://img.shields.io/badge/keito--dev-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)<br/>
+![Age](https://img.shields.io/badge/23_years-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)<br/>
+![FiveM](https://img.shields.io/badge/FiveM-5_Years-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)<br/>
 ![Stack](https://img.shields.io/badge/Back--End-FiveM-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)
+
 
 </div>
 
@@ -138,7 +139,7 @@ Lead Developer on Goat Battle Royale and Kush PvP, CTO on Boss Battle Royale and
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-keito--dev-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)](https://github.com/keito-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-keito--dev-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)](https://github.com/keito-dev)<br/>
 [![Email](https://img.shields.io/badge/Email-renatogmirandol%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111)](mailto:renatogmirandol@gmail.com)
 
 </div>
