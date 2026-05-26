@@ -7,8 +7,8 @@
 <br/>
 
 ![Age](https://img.shields.io/badge/23_years-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)<br/>
-![FiveM](https://img.shields.io/badge/FiveM-5_Years-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)<br/>
-![Stack](https://img.shields.io/badge/Back--End-FiveM-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)
+[![FiveM](https://img.shields.io/badge/FiveM-5_Years-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)](https://fivem.net/)<br/>
+[![Stack](https://img.shields.io/badge/Back--End-FiveM-1a1a1a?style=for-the-badge&labelColor=111111&color=1f1f1f)](https://fivem.net/)
 
 
 </div>
@@ -18,10 +18,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=About%20Me" />
-
----
-
-</div>
+<br/><br/>
 
 Started working with FiveM at 18 and never really stopped. What began with small scripts turned into 5 years of full-cycle development across some of the most played servers in Brazil.
 
@@ -31,14 +28,17 @@ Lead Developer on Goat Battle Royale and Kush PvP, CTO on Boss Battle Royale and
 
 <br/>
 
+**Languages, Database & Tools**
+
+<img src="https://skillicons.dev/icons?i=ts,js,lua,html,css,mysql,nodejs,vscode,git,github&theme=dark" height="42" />
+<br/>
+
 ---
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=Projects" />
-
----
-<br/>
+<br/><br/>
 
 <table>
   <thead>
@@ -93,39 +93,7 @@ Lead Developer on Goat Battle Royale and Kush PvP, CTO on Boss Battle Royale and
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=Tech%20Stack" />
-
----
-
-<br/>
-
-**Game Development**
-
-[![Rockstar](https://img.shields.io/badge/Rockstar-0d0d0d?style=for-the-badge&logo=rockstargames&logoColor=ffffff&labelColor=0d0d0d)](https://www.rockstargames.com/)
-[![FiveM](https://img.shields.io/badge/FiveM-0d0d0d?style=for-the-badge&logo=fivem&logoColor=ffffff&labelColor=0d0d0d)](https://fivem.net/)
-[![CitizenFX](https://img.shields.io/badge/CitizenFX-0d0d0d?style=for-the-badge&labelColor=0d0d0d)](https://cfx.re/)
-<br/><br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,lua,html,css&theme=dark" height="42" />
-
-<br/><br/>
-
-**Database & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,nodejs,vscode,git,github&theme=dark" height="42" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=GitHub%20Stats" />
-
----
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=keito-dev&hide_border=true&background=0d0d0d&stroke=1f1f1f&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=aaaaaa" />
@@ -139,12 +107,10 @@ Lead Developer on Goat Battle Royale and Kush PvP, CTO on Boss Battle Royale and
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=Contact" />
-<br/>
-
----
   
-[![GitHub](https://img.shields.io/badge/GitHub-keito--dev-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)](https://github.com/keito-dev)<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=Contact" />
+<br/><br/>
+  
 [![Discord](https://img.shields.io/badge/Discord-keito.zip-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=313338)](https://discord.com/users/480526821469978625)<br/>
 [![Email](https://img.shields.io/badge/Email-renatogmirandola%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111)](mailto:renatogmirandola@gmail.com)
 
