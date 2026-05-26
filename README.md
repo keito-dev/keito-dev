@@ -35,7 +35,7 @@ Lead Developer on Goat Battle Royale and Kush PvP, CTO on Boss Battle Royale and
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=Notable%20Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=Projects" />
 
 ---
 <br/>
