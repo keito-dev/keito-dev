@@ -108,7 +108,6 @@ Lead Developer on Goat Battle Royale and Kush PvP, CTO on Boss Battle Royale and
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=Contact" />
 <br/><br/>
   
 [![Discord](https://img.shields.io/badge/Discord-keito.zip-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=313338)](https://discord.com/users/480526821469978625)<br/>
